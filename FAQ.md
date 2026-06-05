@@ -43,4 +43,4 @@ EnvGuard 提供 **30 天免费试用**（全部方案），试用期结束后可
 
 ## 如何联系作者？
 
-如有问题或建议，请在 [GitHub Issues](https://github.com/kfyuy02/MacGuard/issues) 提交。
+如有问题或建议，请在 [GitHub Issues](https://github.com/kfyuy02/macguard-docs/issues) 提交。
